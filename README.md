@@ -1,6 +1,6 @@
 # purejavascript
-Pure Javascript Libraries
-https://stackoverflow.com/a/2366237
+Pure Javascript Libraries <br>
+https://stackoverflow.com/a/2366237 <br>
 https://www.graphdracula.net/showcase/
 <h3>Pure JavaScript Libraries</h3>
 <ul>
